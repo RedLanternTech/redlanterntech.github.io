@@ -24,36 +24,60 @@ I can start new adventures with technology and learing.  Thank you for your time
 [blog@redlantern.tech](mailto:blog@redlantern.tech)
 
 ## Current Job Titles
+
 Senior Systems Engineer
+
 Team Leader for Engineers
 
 ## Certifications
+
 A+ Certification
+
 Azure Administrator Associate (AZ-104)
+
 Extra Class Amateur Radio License
+
 Microsoft Specialist: Administering Office 365 for Small Business
+
 Microsoft Specialist: Windows 7, Configuring
+
 Microsoft Certified Professional: Microsoft Certified Professional
+
 Network + Certification
+
 Skywarn Trained Weather Spotter from the National Weather Service
+
 Watchguard MFA and Firewalls
 
 ## Professional Strengths
+
 Experience with Microsoft Azure and Microsoft 365
+
 Experience performing migrations from on-site and hosted email systems to Microsoft 365
+
 Experienced installing Windows Servers including Hyper-V deployments
+
 Experience with Blackberry Server and Microsoft Exchange
+
 14 Years of providing customer service with Managed Service Providers
+
 Experience with cloud services such as anti-virus, backup, and remote management
+
 Experience with Remote Monitoring and Management Solutions from Solarwinds
+
 Knowledge in Security Practices, Risk Management, Encryption,
+
 Working knowledge of UNIX/LINUX, 
+
 Working knowledge of Powershell Scripting.
+
 Creating Documentation and learning new skills
 
 ## Education
-Masters of Business Administration (January 2010-December 2012,)
-University of Michigan, Flint Michigan
+>Masters of Business Administration (January 2010-December 2012,)
+>
+>University of Michigan, Flint Michigan
 
-Bachelors of Information Technology and Security (September 2005-June 2007)
-Baker College, Flint Michigan
+>Bachelors of Information Technology and Security (September 2005-June 2007)
+>
+>Baker College, Flint Michigan
