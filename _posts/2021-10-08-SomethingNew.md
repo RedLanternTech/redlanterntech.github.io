@@ -3,8 +3,6 @@ layout: post
 title: Start of something new
 ---
 
-# Start of Something New
-
 So even as I type this, this is not my first blog post.  I have been playing with the concept of a blog for some time.
 I had gotten the idea from [NetworkChuck](https://youtu.be/gwUz3E9AW0w).  I really liked the points he had made regarding
 why you should have a web site.  After watching that video I started playing with the idea of a blog.  So I took a Raspberry 
