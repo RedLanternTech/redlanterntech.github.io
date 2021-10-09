@@ -7,13 +7,15 @@ permalink: /about/
 > "The answer is DNS, the question is irrelevant
 > - My old college professor Brian Bridson
 
+![Yes, this is really me](http://redlantern.tech/images/91954742.png)
+
 Hello, my name is Zac and I have been in the Information Technology and Security field since 2007. I have worked with computers since I was young, starting out figuring out the tape drive on a Commodore Vic-20 all the way up to now solving problems and creating solutions for businesses.
 
 Though I still find time to work on my own projects as well, I always have something going on that I want to learn to expend my technology skill.
 
 The name Red Lantern Tech comes from my own creativity.  I have always had a good imagination and it has helped me thoughout my career.  Being
 able to creativly solve problems and come up with solutions for my clients has been one of the things that has helped me stand out.  Red Lantern
-Tech comes from a location I had made in my Dungeon and Dragon playing days, the Red Lantern Inn Bar and Grill.  It is a mystical bar with good
+Tech comes from a location I had made in my Dungeons and Dragons playing days, the Red Lantern Inn Bar and Grill.  It is a mystical bar with good
 food, endless tacos, and the best entertainment you can imagine.  Also it a good place to start an adventure.  So hopefully with this blog
 I can start new adventures with technology and learing.  Thank you for your time and 73's 
 
