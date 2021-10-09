@@ -7,7 +7,7 @@ permalink: /about/
 > "The answer is DNS, the question is irrelevant
 > - My old college professor Brian Bridson
 
-![Yes, this is really me](http://redlantern.tech/images/91954742.png)
+![Yes, this is really me](https://redlantern.tech/images/91954742.png)
 
 Hello, my name is Zac and I have been in the Information Technology and Security field since 2007. I have worked with computers since I was young, starting out figuring out the tape drive on a Commodore Vic-20 all the way up to now solving problems and creating solutions for businesses.
 
