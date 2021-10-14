@@ -13,11 +13,11 @@ Hello, my name is Zac and I have been in the Information Technology and Security
 
 Though I still find time to work on my own projects as well, I always have something going on that I want to learn to expend my technology skill.
 
-The name Red Lantern Tech comes from my own creativity.  I have always had a good imagination and it has helped me thoughout my career.  Being
-able to creativly solve problems and come up with solutions for my clients has been one of the things that has helped me stand out.  Red Lantern
+The name Red Lantern Tech comes from my own creativity.  I have always had a good imagination and it has helped me throughout my career.  Being
+able to creatively solve problems and come up with solutions for my clients has been one of the things that has helped me stand out.  Red Lantern
 Tech comes from a location I had made in my Dungeons and Dragons playing days, the Red Lantern Inn Bar and Grill.  It is a mystical bar with good
 food, endless tacos, and the best entertainment you can imagine.  Also it a good place to start an adventure.  So hopefully with this blog
-I can start new adventures with technology and learing.  Thank you for your time and 73's 
+I can start new adventures with technology and learning.  Thank you for your time and 73's 
 
 ### Contact me
 
@@ -63,7 +63,7 @@ Experience with Blackberry Server and Microsoft Exchange
 
 Experience with cloud services such as anti-virus, backup, and remote management
 
-Experience with Remote Monitoring and Management Solutions from Solarwinds
+Experience with Remote Monitoring and Management Solutions from Solarwinds/N-Able
 
 Knowledge in Security Practices, Risk Management, Encryption,
 
