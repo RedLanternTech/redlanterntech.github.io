@@ -11,7 +11,8 @@ layout: default
 
   <div class="date">
     Written on {{ page.date | date: "%B %e, %Y" }}
-    Copywrite {{ "%Y" }} Zac Treadwell.  All Rights Reserved
+
+    Copywrite {{ page.date | "%Y" }} Zac Treadwell.  All Rights Reserved
   </div>
 
   {% include disqus.html %}
