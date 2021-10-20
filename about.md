@@ -71,6 +71,10 @@ Working knowledge of UNIX/LINUX,
 
 Working knowledge of Powershell Scripting.
 
+Implementing and Configuring Cloud-Based VOIP Solutions
+
+Migrating clients from traditional phone systems to Cloud-Based VOIP Solutions
+
 Creating Documentation and learning new skills
 
 ## Education
