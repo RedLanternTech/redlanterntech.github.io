@@ -3,13 +3,13 @@ layout: post
 title:  Switching from VS Code to VS Codium
 ---
 
-So here is a late post and one right after my one from yesterday.  I've always been a big fan of VS Code from Microsoft.  It still boggles my mind that Microsoft not only 
+So here is a late post and one right after my one from yesterday.  I've always been a big fan of VSCode from Microsoft.  It still boggles my mind that Microsoft not only 
 released a program that runs on Linux (along with Powershell and Microsoft Edge) but made it open source.  However, these still do get a lot of criticism, especially 
 those who are proponents of free and open source software.  I firmly follow the belief of using what works.  For me, VS Code works.  I did flirt with the idea of
 updating this blog in Emacs or VIM, but honestly, I find myself coming back to VS Code.  Throw on a spell checker and the VIM addon and it just works for me.
 
 Because of VS Codes open nature, a spinoff project that takes the code and rereleases it without the telemetry turned on (or existing).  I get why Microsoft and other
-vendors do telemetry, it can help with crash data, give Microsoft an idea of its install base, and how people are using VS Code.  However, I am in the middle of trying 
+vendors do telemetry, it can help with crash data, give Microsoft an idea of its install base, and how people are using VSCode.  However, I am in the middle of trying 
 to reduce how much telemetry companies do get off of me.  For example at home I am mostly on Linux (Linux Mint and Kubuntu) and with plans on taking my next smartphone to 
 GrapheneOS in the near future, its probably best to say I'm up for anything that doesn't do any telemetry data.
 
@@ -33,6 +33,6 @@ Add in the following lines of code
 
 and boom, now I have all the addons I like in VSCodium.  I did learn something, next time check out the [Blog on GitHub](https://github.com/VSCodium/vscodium/blob/master/DOCS.md#extensions-marketplace) as that is where I found the magic sauce to make it work.  
 
-Lets see how this goes
+Lets see how this goes.  I will have to swap things out on my desktop tomorrow.  
 
 73's and Take Care
