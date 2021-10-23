@@ -78,7 +78,7 @@ Migrating clients from traditional phone systems to Cloud-Based VOIP Solutions
 Creating Documentation and learning new skills
 
 ## Education
->Masters of Business Administration (January 2010-December 2012,)
+>Masters of Business Administration (January 2010-December 2012)
 >
 >University of Michigan, Flint Michigan
 
