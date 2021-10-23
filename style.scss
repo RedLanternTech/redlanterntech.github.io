@@ -119,6 +119,12 @@ code.highlighter-rouge {
   border-radius: 2px;
 }
 
+blockquote {
+  color: $conifer;
+  padding-left: 10px;
+  border-left: 1px dotted $confir;
+}
+
 // Fixes images in popup boxes from Google Translate
 .gmnoprint img {
   max-width: none;
