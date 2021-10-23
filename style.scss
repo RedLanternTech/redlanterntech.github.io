@@ -110,22 +110,6 @@ img {
   max-width: 100%;
 }
 
-// Items I am adding to clean up formatting from the Hacker Theme
-code.highlighter-rouge {
-  background: rgba(0,0,0,0.9);
-  border: 1px solid rgba(255, 255, 255, 0.15);
-  padding: 0px 3px;
-  margin: 0px -3px;
-  color: #aa759f;
-  border-radius: 2px;
-}
-
-blockquote {
-  color: $silver-chalice;
-  padding-left: 10px;
-  border-left: 1px dotted $dove-grey;
-}
-
 // Fixes images in popup boxes from Google Translate
 .gmnoprint img {
   max-width: none;
