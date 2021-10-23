@@ -11,7 +11,7 @@ permalink: /about/
 
 Hello, my name is Zac and I have been in the Information Technology and Security field since 2007. I have worked with computers since I was young, starting out figuring out the tape drive on a Commodore Vic-20 all the way up to now solving problems and creating solutions for businesses.
 
-Though I still find time to work on my own projects as well, I always have something going on that I want to learn to expend my technology skill.
+Though I still find time to work on my own projects as well, I always have something going on that I want to learn to expand my technology skill.
 
 The name Red Lantern Tech comes from my own creativity.  I have always had a good imagination and it has helped me throughout my career.  Being
 able to creatively solve problems and come up with solutions for my clients has been one of the things that has helped me stand out.  Red Lantern
