@@ -6,15 +6,7 @@
 // Colors
 $blue: #4183C4;
 
-// Grays
-$black: #000;
-$darkerGray: #222;
-$darkGray: #333;
-$gray: #666;
-$lightGray: #eee;
-$white: #fff;
-
-// Added For Hacker Theme
+// Variables from Hacker Theme
 $apple-blossom: #ac4142;
 $alto: #d0d0d0;
 $bouquet: #aa759f;
@@ -31,10 +23,19 @@ $rajah: #f4bf75;
 $raw-sienna: #d28445;
 $silver-chalice: #aaa;
 
+// Grays
+$black: #000;
+$darkerGray: #222;
+$darkGray: #333;
+$gray: #666;
+$lightGray: #eee;
+$white: #fff;
+
 // Font stacks
 $helvetica: Helvetica, Arial, sans-serif;
 $helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
 $georgia: Georgia, serif;
+$hacker:  Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal, monospace;
 
 // Mobile breakpoints
 @mixin mobile {
