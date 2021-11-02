@@ -22,7 +22,7 @@ so I don't miss any crucial files or settings.  So what does my list look like f
 - Run `sudo apt update && sudo apt upgrade -y` first 
 - Run `sudo apt remove libreoffice-*`
 - Verify Neofetch is working
-- Run `sudo apt install rofi neovim`
+- Run `sudo apt install rofi neovim remmina`
 - Install the Brave Browser
 - Install Libreoffice from [FlatHub](https://flathub.org/home)
 - Setup my password keeper and 2FA 
