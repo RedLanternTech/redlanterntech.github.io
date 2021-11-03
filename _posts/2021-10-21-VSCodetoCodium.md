@@ -8,7 +8,7 @@ released a program that runs on Linux (along with Powershell and Microsoft Edge)
 those who are proponents of free and open source software.  I firmly follow the belief of using what works.  For me, VS Code works.  I did flirt with the idea of
 updating this blog in Emacs or VIM, but honestly, I find myself coming back to VS Code.  Throw on a spell checker and the VIM addon and it just works for me.
 
-Because of VS Codes open nature, a spinoff project that takes the code and rereleases it without the telemetry turned on (or existing).  I get why Microsoft and other
+Because of VS Codes open nature, a spinoff project exists that takes VSCode and re-releases it without the telemetry turned on (or existing).  I get why Microsoft and other
 vendors do telemetry, it can help with crash data, give Microsoft an idea of its install base, and how people are using VSCode.  However, I am in the middle of trying 
 to reduce how much telemetry companies do get off of me.  For example at home I am mostly on Linux (Linux Mint and Kubuntu) and with plans on taking my next smartphone to 
 GrapheneOS in the near future, its probably best to say I'm up for anything that doesn't do any telemetry data.
