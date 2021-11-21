@@ -26,3 +26,5 @@ So back to my first paragraph, if I had to tell my younger self what kind of job
 good customer service.  My first two jobs were a sandwich maker and a computer tutor at a college.  Those helped me out in the long run even though at the time, I just saw them as a stopping point to my goal where I can be shoved into a back room and work on computers all day (spoiler alert, that will never happen).  For those
 coming up, I'd say look at that fast food job you have, being able to provide excellent customer service will be a must.  No matter how angry or irate a customer may 
 get at you, you still have to be able to communicate with them in a manner that is professional.  Take the time now to learn how to work with your co-workers as well.  IT is a team effort, not a lone gunman type of career.    
+
+Until then, 73's.
