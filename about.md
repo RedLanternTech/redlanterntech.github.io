@@ -32,6 +32,8 @@ Microsoft Certified Professional: Microsoft Certified Professional
 
 Network + Certification
 
+Security + Certification
+
 Skywarn Trained Weather Spotter from the National Weather Service
 
 Watchguard MFA and Firewalls
