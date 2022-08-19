@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Credentials 
+title: Credentials from Credly 
 permalink: /credly/
 ---
 
