@@ -2,8 +2,6 @@
 layout: post
 title: Small, Big, and Future Projects 
 ---
-# Recent Adventures in Cybersecurity
-
 ## Introduction
 In my continuous pursuit of knowledge and professional growth, I have been actively engaged in various cybersecurity endeavors over the past few weeks. In this article, I will provide a brief overview of my experiences and highlight the key aspects of each undertaking.
 
