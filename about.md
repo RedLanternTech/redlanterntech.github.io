@@ -76,3 +76,6 @@ Creating Documentation and learning new skills
 >Bachelors of Information Technology and Security (September 2005-June 2007)
 >
 >Baker College, Flint Michigan
+
+## Online Profiles
+[Microsoft Learning](https://learn.microsoft.com/en-us/users/ZacT-8437)
