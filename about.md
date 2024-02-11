@@ -22,9 +22,11 @@ A+ Certification
 
 Azure Administrator Associate (AZ-104)
 
+Extra Class Amateur Radio License
+
 ISC2 Certified Information Systems Security Professional (CISSP) 
 
-Extra Class Amateur Radio License
+LPI LE-1 Linux Essentials
 
 Microsoft Specialist: Administering Office 365 for Small Business
 
