@@ -26,7 +26,7 @@ Extra Class Amateur Radio License
 
 ISC2 Certified Information Systems Security Professional (CISSP) 
 
-LPI LE-1 Linux Essentials
+[LPI LE-1 Linux Essentials](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000599727/zyga4ndlwj)
 
 Microsoft Specialist: Administering Office 365 for Small Business
 
