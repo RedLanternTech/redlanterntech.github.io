@@ -10,3 +10,7 @@ permalink: /links.html
 
 [MITRE D3FEND](https://d3fend.mitre.org)
 
+[MITRE Attack Framework](https://attack.mitre.org)
+
+[Unified Kill Chain](https://www.unifiedkillchain.com/assets/The-Unified-Kill-Chain.pdf)
+
