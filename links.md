@@ -4,7 +4,7 @@ title: Important Links to Know
 permalink: /links.html
 ---
 
-# Threat Modeling
+## Threat Modeling
 
 [MITRE Engage Starter Kit](https://engage.mitre.org/starter-kit/) 
 
@@ -16,7 +16,7 @@ permalink: /links.html
 
 [Unified Kill Chain](https://www.unifiedkillchain.com/assets/The-Unified-Kill-Chain.pdf)
 
-# Cyber Threat Intelligence
+## Cyber Threat Intelligence
 
 [Mandiant](https://www.mandiant.com/resources)
 
@@ -34,7 +34,7 @@ permalink: /links.html
 
 [Talos Intelligence](https://talosintelligence.com)
 
-# Additional Tools
+## Additional Tools
 
 [Phish Tool](https://app.phishtool.com)
 
@@ -42,7 +42,7 @@ permalink: /links.html
 
 [ICANN Lookups](https://lookup.icann.org)
 
-# Indicators of Compromise
+## Indicators of Compromise
 
 [Valhalla](https://valhalla.nextron-systems.com/)
 
