@@ -42,4 +42,10 @@ permalink: /links.html
 
 [ICANN Lookups](https://lookup.icann.org)
 
+# Indicators of Compromise
+
+[Valhalla](https://valhalla.nextron-systems.com/)
+
+[Virus Total](https://www.virustotal.com)
+
 
