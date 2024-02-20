@@ -48,4 +48,4 @@ permalink: /links.html
 
 [Virus Total](https://www.virustotal.com)
 
-
+[MISP Book](https://www.circl.lu/doc/misp/)
