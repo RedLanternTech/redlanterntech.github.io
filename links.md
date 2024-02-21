@@ -38,7 +38,7 @@ permalink: /links.html
 
 [Phish Tool](https://app.phishtool.com)
 
-[CyberChef](https://gchq.github.io/CyberChef/)
+[CyberChef](https://gchq:w.github.io/CyberChef/)
 
 [ICANN Lookups](https://lookup.icann.org)
 
@@ -49,3 +49,15 @@ permalink: /links.html
 [Virus Total](https://www.virustotal.com)
 
 [MISP Book](https://www.circl.lu/doc/misp/)
+
+## Spam and Email Analysis
+
+[Understanding an Email Header](https://mediatemple.zendesk.com/hc/en-us/articles/204643950-Understanding-an-email-header)
+
+[Google Email Header Analysis](https://toolbox.googleapps.com/apps/messageheader/analyzeheader)
+
+[Message Header Analyzer](https://mha.azurewebsites.net/)
+
+[Mail Header Analysis](https://mailheader.org/)
+
+[IP Info](https://ipinfo.io)
