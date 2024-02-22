@@ -61,3 +61,13 @@ permalink: /links.html
 [Mail Header Analysis](https://mailheader.org/)
 
 [IP Info](https://ipinfo.io)
+
+[PhishTool](https://www.phishtool.com)
+
+## Malware Sandboxes and Analysis
+
+[Any.Run](https://app.any.run)
+
+[Hybrid Analysis](https://www.hybrid-analysis.com)
+
+[Joe Sandbox](https://www.joesecurity.org)
