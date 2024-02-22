@@ -38,7 +38,7 @@ permalink: /links.html
 
 [Phish Tool](https://app.phishtool.com)
 
-[CyberChef](https://gchq:w.github.io/CyberChef/)
+[CyberChef](https://gchq.github.io/CyberChef/)
 
 [ICANN Lookups](https://lookup.icann.org)
 
