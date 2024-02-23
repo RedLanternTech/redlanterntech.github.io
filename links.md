@@ -64,6 +64,14 @@ permalink: /links.html
 
 [PhishTool](https://www.phishtool.com)
 
+[SMTP Codes](https://www.mailersend.com/blog/smtp-codes)
+
+[Wireshark SMTP Display Filters](https://www.wireshark.org/docs/dfref/s/smtp.html)
+
+[Wireshark Internet Mesage Format Display Filters](https://www.wireshark.org/docs/dfref/i/imf.html)
+
+[Phishing IR Playbook](https://github.com/counteractive/incident-response-plan-template/blob/master/playbooks/playbook-phishing.md)
+
 ## Malware Sandboxes and Analysis
 
 [Any.Run](https://app.any.run)
@@ -71,3 +79,9 @@ permalink: /links.html
 [Hybrid Analysis](https://www.hybrid-analysis.com)
 
 [Joe Sandbox](https://www.joesecurity.org)
+
+## Incident Response
+
+[Awesome Incident Response](https://github.com/meirwah/awesome-incident-response)
+
+[Incident Response Plan Template](https://github.com/counteractive/incident-response-plan-template/tree/master?tab=readme-ov-file)
