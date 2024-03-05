@@ -40,6 +40,8 @@ permalink: /links.html
 
 [ICANN Lookups](https://lookup.icann.org)
 
+[List of File Signatures](https://en.wikipedia.org/wiki/List_of_file_signatures)
+
 ## Indicators of Compromise
 
 [Valhalla](https://valhalla.nextron-systems.com/)
