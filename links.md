@@ -87,3 +87,7 @@ permalink: /links.html
 [Awesome Incident Response](https://github.com/meirwah/awesome-incident-response)
 
 [Incident Response Plan Template](https://github.com/counteractive/incident-response-plan-template/tree/master?tab=readme-ov-file)
+
+## Traffic Analysis
+[Network Miner](https://www.netresec.com/?page=NetworkMiner)
+[Zeek Cheatsheets](https://corelight.com/products/zeek-data/)
