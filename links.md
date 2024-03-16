@@ -42,6 +42,8 @@ permalink: /links.html
 
 [List of File Signatures](https://en.wikipedia.org/wiki/List_of_file_signatures)
 
+[Zeek Training Lab](https://try.bro.org/#/?example=hello)
+
 ## Indicators of Compromise
 
 [Valhalla](https://valhalla.nextron-systems.com/)
@@ -90,4 +92,5 @@ permalink: /links.html
 
 ## Traffic Analysis
 [Network Miner](https://www.netresec.com/?page=NetworkMiner)
+
 [Zeek Cheatsheets](https://corelight.com/products/zeek-data/)
