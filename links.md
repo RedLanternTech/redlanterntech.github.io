@@ -94,3 +94,5 @@ permalink: /links.html
 [Network Miner](https://www.netresec.com/?page=NetworkMiner)
 
 [Zeek Cheatsheets](https://corelight.com/products/zeek-data/)
+
+[Zeek Documentation](https://docs.zeek.org/en/master/)
