@@ -96,3 +96,8 @@ permalink: /links.html
 [Zeek Cheatsheets](https://corelight.com/products/zeek-data/)
 
 [Zeek Documentation](https://docs.zeek.org/en/master/)
+
+## Endpoint Monitoring
+[Sysinternals Utilities](https://docs.microsoft.com/en-us/sysinternals/downloads/)
+
+[Sysinternals Live](https://live.sysinternals.com)
