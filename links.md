@@ -101,3 +101,8 @@ permalink: /links.html
 [Sysinternals Utilities](https://docs.microsoft.com/en-us/sysinternals/downloads/)
 
 [Sysinternals Live](https://live.sysinternals.com)
+
+[Windows Logging Cheat Sheet](https://static1.squarespace.com/static/552092d5e4b0661088167e5c/t/580595db9f745688bc7477f6/1476761074992/Windows+Logging+Cheat+Sheet_ver_Oct_2016.pdf)
+
+## MISC
+[13 Cubed Downloads (Just Awesome Sheets)](https://training.13cubed.com/downloads)
