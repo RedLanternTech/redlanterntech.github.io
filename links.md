@@ -106,3 +106,5 @@ permalink: /links.html
 
 ## MISC
 [13 Cubed Downloads (Just Awesome Sheets)](https://training.13cubed.com/downloads)
+
+[FRSecure Resources (Great Resource and their CISSP Course in the spring is great)](https://frsecure.com/resources/)
