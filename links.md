@@ -104,6 +104,10 @@ permalink: /links.html
 
 [Windows Logging Cheat Sheet](https://static1.squarespace.com/static/552092d5e4b0661088167e5c/t/580595db9f745688bc7477f6/1476761074992/Windows+Logging+Cheat+Sheet_ver_Oct_2016.pdf)
 
+[Swift on Security Sysmon Config](https://github.com/SwiftOnSecurity/sysmon-config)
+
+[ION Storm Sysmon Config](https://github.com/ion-storm/sysmon-config/blob/develop/sysmonconfig-export.xml)
+
 ## MISC
 [13 Cubed Downloads (Just Awesome Sheets)](https://training.13cubed.com/downloads)
 
