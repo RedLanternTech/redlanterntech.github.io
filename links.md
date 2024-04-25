@@ -108,6 +108,7 @@ permalink: /links.html
 
 [ION Storm Sysmon Config](https://github.com/ion-storm/sysmon-config/blob/develop/sysmonconfig-export.xml)
 
+[OSQuery Schema Documentation](https://osquery.io/schema/5.5.1/)
 ## MISC
 [13 Cubed Downloads (Just Awesome Sheets)](https://training.13cubed.com/downloads)
 
