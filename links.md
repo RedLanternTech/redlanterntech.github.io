@@ -36,6 +36,8 @@ permalink: /links.html
 
 [Robtex](https://www.robtex.com/)
 
+[LevelBlue Open Threat Exchange](https://otx.alienvault.com/)
+
 ## Additional Tools
 
 [CyberChef](https://gchq.github.io/CyberChef/)
