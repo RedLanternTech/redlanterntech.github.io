@@ -100,6 +100,10 @@ permalink: /links.html
 
 [LOLBAS](https://lolbas-project.github.io)
 
+[SANS Incident Handler's Handbook](https://www.sans.org/white-papers/33901/)
+
+[NIST 800-61 Computer Security Incident Handling Guide](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-61r2.pdf)
+
 ## Traffic Analysis
 [Network Miner](https://www.netresec.com/?page=NetworkMiner)
 
