@@ -96,6 +96,10 @@ permalink: /links.html
 
 [Incident Response Plan Template](https://github.com/counteractive/incident-response-plan-template/tree/master?tab=readme-ov-file)
 
+## DFIR and Threat Hunting
+
+[LOLBAS](https://lolbas-project.github.io)
+
 ## Traffic Analysis
 [Network Miner](https://www.netresec.com/?page=NetworkMiner)
 
