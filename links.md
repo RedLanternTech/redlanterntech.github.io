@@ -104,6 +104,8 @@ permalink: /links.html
 
 [NIST 800-61 Computer Security Incident Handling Guide](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-61r2.pdf)
 
+[Eric Zimmerman's Tools](https://ericzimmerman.github.io/#!index.md)
+
 ## Traffic Analysis
 [Network Miner](https://www.netresec.com/?page=NetworkMiner)
 
