@@ -1,5 +1,3 @@
-# Why Having a Plan Matters in Cybersecurity
-
 Hey there! Let me tell you about something super important in my line of work: having a solid plan. Having a plan just for minor tasks has helped out and reduced the ammount of time I spent trying to either troubleshoot an issue or resolve an incident. Let me walk you through a few recent situations that really drove this point home:
 
 ## Dealing with Incidents
