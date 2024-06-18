@@ -90,6 +90,10 @@ permalink: /links.html
 
 [Joe Sandbox](https://www.joesecurity.org)
 
+[Cuckoo's Sandbox](https://cuckoosandbox.org/)
+
+[CAPE Sandbox](https://github.com/kevoreilly/CAPEv2)
+
 ## Incident Response
 
 [Awesome Incident Response](https://github.com/meirwah/awesome-incident-response)
