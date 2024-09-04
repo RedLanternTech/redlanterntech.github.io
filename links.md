@@ -4,6 +4,10 @@ title: Important Links to Know
 permalink: /links.html
 ---
 
+## Passive Recon
+[DNS Dumpster](https://dnsdumpster.com/)
+[Shodan](https://www.shodan.io/)
+
 ## Threat Modeling
 
 [MITRE Engage Starter Kit](https://engage.mitre.org/starter-kit/) 
