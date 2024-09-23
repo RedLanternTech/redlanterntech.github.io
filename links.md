@@ -6,6 +6,7 @@ permalink: /links.html
 
 ## Passive Recon
 [DNS Dumpster](https://dnsdumpster.com/)
+
 [Shodan](https://www.shodan.io/)
 
 ## Threat Modeling
