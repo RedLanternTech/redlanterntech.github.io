@@ -12,9 +12,7 @@ permalink: /about/
 
 ## Current Job Titles
 
-Senior Systems Engineer
-
-Team Leader for Engineers
+Director of Cyber Security Policy
 
 ## Certifications
 
