@@ -146,6 +146,10 @@ permalink: /links.html
 
 [CrackStation](https://crackstation.net)
 
+[Open Source Security Testing Methodology Manual](https://www.isecom.org/OSSTMM.3.pdf)
+
+[RedTeam Guide](https://redteam.guide)
+
 ## MISC
 [13 Cubed Downloads (Just Awesome Sheets)](https://training.13cubed.com/downloads)
 
