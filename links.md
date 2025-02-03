@@ -150,6 +150,18 @@ permalink: /links.html
 
 [RedTeam Guide](https://redteam.guide)
 
+[Impact - Python Classes that work with network protocols](https://github.com/fortra/impacket)
+
+[HackTricks](https://book.hacktricks.wiki/en/index.html)
+
+[PentestMonkey Cheat Sheets](https://pentestmonkey.net/category/cheat-sheet)
+
+[PEASS-ng Privilege Escalation Awesome Scripts Suite](https://github.com/peass-ng/PEASS-ng)
+
+[GTFOBins - Linux Binary Abuse](https://gtfobins.github.io/)
+
+[LOLBAS - Windows Binary Abuse](https://lolbas-project.github.io/)
+
 ## MISC
 [13 Cubed Downloads (Just Awesome Sheets)](https://training.13cubed.com/downloads)
 
