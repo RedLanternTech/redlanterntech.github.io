@@ -162,6 +162,8 @@ permalink: /links.html
 
 [LOLBAS - Windows Binary Abuse](https://lolbas-project.github.io/)
 
+[BGP-Toolkit](https://bgp.he.net/)
+
 ## MISC
 [13 Cubed Downloads (Just Awesome Sheets)](https://training.13cubed.com/downloads)
 
