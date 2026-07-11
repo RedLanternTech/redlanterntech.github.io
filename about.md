@@ -20,6 +20,8 @@ A+ Certification
 
 Azure Administrator Associate (AZ-104)
 
+Azure Network Engineer Associate (AZ-700)
+
 Extra Class Amateur Radio License
 
 ISC2 Certified Information Systems Security Professional (CISSP) 
