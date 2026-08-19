@@ -171,6 +171,7 @@ permalink: /links.html
 
 [NS Lookup.io](https://www.nslookup.io/)
 
+[IP Location](https://www.iplocation.net/)
 
 [FRSecure Resources (Great Resource and their CISSP Course in the spring is great)](https://frsecure.com/resources/)
 
