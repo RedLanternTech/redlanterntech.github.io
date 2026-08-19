@@ -166,6 +166,9 @@ permalink: /links.html
 
 ## MISC
 [13 Cubed Downloads (Just Awesome Sheets)](https://training.13cubed.com/downloads)
+[DNS Checker}(https://dnschecker.org/)
+[NS Lookup.io](https://www.nslookup.io/)
+
 
 [FRSecure Resources (Great Resource and their CISSP Course in the spring is great)](https://frsecure.com/resources/)
 
